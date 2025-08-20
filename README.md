@@ -3,10 +3,13 @@
 </p>
 
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Yusuf <span style="font-size:0.8em;">(sl4de)</span> 👋
+  Hi, I'm Yusuf <span style="font-size:0.8em;">(sl4de)</span> ⚡
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Professional Pentester
+</p>
+<p align="center" style="margin-top:5px;">
+  <a href="https://yusufkorkut.com.tr/" style="text-decoration: none; color: #58a6ff;">yusufkorkut.com.tr</a>
 </p>
 
 ---
@@ -25,8 +28,18 @@
 
 ## 👨‍💻 About Me
 
-Penetrasyon testleri, güvenlik denetimleri ve tehdit analizi konularında uzmanım;  
-siber tehditlere karşı kapsamlı ve proaktif güvenlik çözümleri sunuyorum.
+I am an expert in penetration testing, security audits, and threat analysis.  
+I provide comprehensive and proactive security solutions to protect against cyber threats.
+
+---
+
+## 🌐 Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" width="32" height="24" title="English (Advanced)" style="margin: 0 8px; vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/tr.svg" width="32" height="24" title="Turkish (Native)" style="margin: 0 8px; vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/es.svg" width="32" height="24" title="Spanish (Intermediate)" style="margin: 0 8px; vertical-align: middle;"/>
+</p>
 
 ---
 
