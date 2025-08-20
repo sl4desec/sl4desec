@@ -36,9 +36,9 @@ I provide comprehensive and proactive security solutions to protect against cybe
 ## 🌐 Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" width="32" height="24" title="English (Advanced)" style="margin: 0 8px; vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/tr.svg" width="32" height="24" title="Turkish (Native)" style="margin: 0 8px; vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/es.svg" width="32" height="24" title="Spanish (Intermediate)" style="margin: 0 8px; vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" width="32" height="24" title="English (Advanced)" style="margin: 0 15px; vertical-align: top;"/>
+  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/tr.svg" width="32" height="24" title="Turkish (Native)" style="margin: 0 15px; vertical-align: top;"/>
+  <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/es.svg" width="32" height="24" title="Spanish (Intermediate)" style="margin: 0 15px; vertical-align: top;"/>
 </p>
 
 ---
