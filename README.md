@@ -28,8 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am an expert in penetration testing, security audits, and threat analysis.  
-I provide comprehensive and proactive security solutions to protect against cyber threats.
+I am an experienced cybersecurity professional specializing in penetration testing, security audits, and advanced threat analysis. With a strong focus on identifying vulnerabilities before they can be exploited, I provide comprehensive and proactive security solutions designed to strengthen systems, networks, and applications. My goal is to help organizations stay ahead of evolving cyber threats by delivering reliable assessments, actionable insights, and effective defense strategies that ensure long-term protection and resilience in the digital landscape.
 
 ---
 
