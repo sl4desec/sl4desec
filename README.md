@@ -12,8 +12,6 @@
   <a href="https://yusufkorkut.com.tr/" style="text-decoration: none; color: #58a6ff;">yusufkorkut.com.tr</a>
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
@@ -24,25 +22,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I am an experienced cybersecurity professional specializing in penetration testing, security audits, and advanced threat analysis. With a strong focus on identifying vulnerabilities before they can be exploited, I provide comprehensive and proactive security solutions designed to strengthen systems, networks, and applications. My goal is to help organizations stay ahead of evolving cyber threats by delivering reliable assessments, actionable insights, and effective defense strategies that ensure long-term protection and resilience in the digital landscape.
-
----
-
-## 🌐 Languages
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" width="32" height="24" title="English (Advanced)" style="margin: 0 8px; vertical-align: middle;"/>
   <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/tr.svg" width="32" height="24" title="Turkish (Native)" style="margin: 0 8px; vertical-align: middle;"/>
   <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/es.svg" width="32" height="24" title="Spanish (Intermediate)" style="margin: 0 8px; vertical-align: middle;"/>
 </p>
 
----
+## About Me
 
-## 🌍 Connect
+I am an experienced cybersecurity professional specializing in penetration testing, security audits, and advanced threat analysis. With a strong focus on identifying vulnerabilities before they can be exploited, I provide comprehensive and proactive security solutions designed to strengthen systems, networks, and applications. My goal is to help organizations stay ahead of evolving cyber threats by delivering reliable assessments, actionable insights, and effective defense strategies that ensure long-term protection and resilience in the digital landscape.
+
+## Connect
 
 <p align="center">
   <a href="mailto:yusufkorkut@proton.me" title="Proton Mail">
@@ -55,7 +45,3 @@ I am an experienced cybersecurity professional specializing in penetration testi
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=sl4de&color=blue)
