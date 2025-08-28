@@ -54,7 +54,4 @@ I work in the field of cybersecurity, developing websites and security tools as 
   <a href="https://t.me/korkutyusuf" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://buymeacoffee.com/yusufkorkut" title="Buy Me A Coffee">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
 </p>
