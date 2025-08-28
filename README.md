@@ -43,7 +43,7 @@
 
 ## About Me
 
-I am an experienced cybersecurity professional specializing in penetration testing, security audits, and advanced threat analysis. With a strong focus on identifying vulnerabilities before they can be exploited, I provide comprehensive and proactive security solutions designed to strengthen systems, networks, and applications. My goal is to help organizations stay ahead of evolving cyber threats by delivering reliable assessments, actionable insights, and effective defense strategies that ensure long-term protection and resilience in the digital landscape.
+I work in the field of cybersecurity, developing websites and security tools as a freelancer, and performing penetration tests. I am also in the process of developing my own web browser, focusing on performance, security, and user experience. My goal is to create secure and innovative digital solutions while continuously improving my skills.
 
 ## Connect
 
