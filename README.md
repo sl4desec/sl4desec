@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlreGJhcGtva2VmNGpnaDlvNnF1enp2OHp0b3VvYzFmd2o5YnpjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZy4VrLD54SaVVA2Ge/giphy.gif" alt="Pentester GIF" width="90" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
-</p>
-
 <h1 align="center" style="margin-bottom:0;">
   Hi, I'm Yusuf <span style="font-size:0.8em;">(sl4de)</span> ⚡
 </h1>
