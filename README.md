@@ -5,7 +5,7 @@
   Professional Pentester
 </p>
 <p align="center" style="margin-top:5px;">
-  <a href="https://sl4de.com/" style="text-decoration: none; color: #58a6ff;">yusufkorkut.com.tr</a>
+  <a href="https://sl4de.com/" style="text-decoration: none; color: #58a6ff;">sl4de.com</a>
 </p>
 
 <p align="center">
