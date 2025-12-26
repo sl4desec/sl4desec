@@ -2,7 +2,7 @@
   Hi, I'm Yusuf <span style="font-size:0.8em;">(sl4de)</span> ⚡
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Professional Pentester
+  Web Pentester
 </p>
 <p align="center" style="margin-top:5px;">
   <a href="https://sl4de.com/" style="text-decoration: none; color: #58a6ff;">sl4de.com</a>
