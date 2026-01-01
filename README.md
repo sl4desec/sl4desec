@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Yusuf <span style="font-size:0.8em;">(sl4de)</span> ⚡
+  Hi, I'm Yusuf <span style="font-size:0.8em;">(sl4de)</span>
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Web Pentester
