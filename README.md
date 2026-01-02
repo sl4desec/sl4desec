@@ -20,6 +20,7 @@
 </p>
 
 <p align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -46,7 +47,7 @@ I work in the field of cybersecurity, developing websites and security tools as 
 ## Connect
 
 <p align="center">
-  <a href="mailto:yusufkorkut@proton.me" title="Proton Mail">
+  <a href="mailto:sl4desec@proton.me" title="Proton Mail">
     <img src="https://img.shields.io/badge/ProtonMail-8A8D93?style=flat&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://t.me/korkutyusuf" title="Telegram">
