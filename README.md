@@ -42,7 +42,13 @@
 
 ## About Me
 
-I work in the field of cybersecurity, developing websites and security tools as a freelancer, and performing penetration tests. I am also in the process of developing my own web browser, focusing on performance, security, and user experience. My goal is to create secure and innovative digital solutions while continuously improving my skills.
+I specialize in penetration testing, security tool
+development, and secure web applications. As a
+freelancer, I identify vulnerabilities and strengthen
+digital defenses for clients worldwide. Im also the
+founder and developer of Obside Browser - a privacy-
+first web browser designed for speed, security, and
+complete user control.
 
 ## Connect
 
